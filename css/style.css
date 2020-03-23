@@ -604,10 +604,10 @@ button.btn-secondary:hover{
 }
 
 .touch-line{
-	padding: 20px 0px;
+	padding: 30px 0px;
 	background: #3dcdd2;
 	position: relative;
-	margin-top: 90px;
+	margin-top: 10px;
 }
 .touch-line:before{
 	position: absolute;
@@ -622,7 +622,7 @@ button.btn-secondary:hover{
 	height: 50px;
 	background-size: cover;
 	background-position: 50% 50%;
-	background-image: url(../images/bg-bdr2-3.png);
+	/* background-image: url(../images/bg-bdr2-3.png); */
 }
 .touch-line p{
 	color: #ffffff;
@@ -1840,10 +1840,10 @@ footer p {
 	  }
 
 	  .touch-line{
-		padding: 0px 0px;
+		padding: 20px 0px;
 		background: #3dcdd2;
 		position: relative;
-		margin-top: 90px;
+		margin-top: 10px;
 	}
 
 	.touch-line:before{
